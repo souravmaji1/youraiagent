@@ -1,0 +1,53 @@
+- generic [ref=e2]:
+  - navigation [ref=e3]:
+    - generic [ref=e6]:
+      - button "Google apps" [ref=e9] [cursor=pointer]:
+        - img [ref=e10]
+      - 'button "Google Account: Devtest (devwebtesting151@gmail.com)" [ref=e14] [cursor=pointer]'
+  - generic [ref=e16]:
+    - 'link "World Cup 2026: The art of the nutmeg" [ref=e17] [cursor=pointer]':
+      - /url: /search?sca_esv=9d8be8cd551ed6a4&sxsrf=ANbL-n5-wEfnSjFfwfN5uYrg--hofa3eYg:1781343404249&q=FIFA+World+Cup+2026&oi=ddle&noiga=1&ct=460195266&hl=en-GB&stick=H4sIAAAAAAAC_-NgVuLQz9U3MDYoNJ_AwriIVdjN081RITy_KCdFwbm0QMHIwMgMAKor_7IlAAAA&sa=X&ved=0ahUKEwjI9NKm9YOVAxU1KvsDHYHJO-wQPQgN
+      - 'img "World Cup 2026: The art of the nutmeg" [ref=e19]'
+    - button "Share" [ref=e21]:
+      - generic "Share" [ref=e22] [cursor=pointer]:
+        - img [ref=e26]
+  - search [ref=e29]:
+    - generic [ref=e31]:
+      - generic [ref=e33]:
+        - img [ref=e37]
+        - combobox "Search" [active] [ref=e40]
+        - generic [ref=e42]:
+          - button "Search by voice" [ref=e43] [cursor=pointer]:
+            - img [ref=e44]
+          - button "Search by image" [ref=e46] [cursor=pointer]:
+            - img [ref=e47]
+      - generic [ref=e50]:
+        - button "Google Search" [ref=e51] [cursor=pointer]
+        - button "I'm Feeling Lucky" [ref=e52] [cursor=pointer]
+  - generic [ref=e55]:
+    - text: "Google offered in:"
+    - link "Français" [ref=e56] [cursor=pointer]:
+      - /url: https://www.google.com/setprefs?sig=0_KcWQVN94hGCS8E6XUSeooTrEEpg%3D&hl=fr&source=homepage&sa=X&ved=0ahUKEwjI9NKm9YOVAxU1KvsDHYHJO-wQ2ZgBCDU
+  - contentinfo [ref=e58]:
+    - generic [ref=e59]: France
+    - generic [ref=e60]:
+      - generic [ref=e61]:
+        - link "About" [ref=e62] [cursor=pointer]:
+          - /url: https://about.google/?utm_source=google-FR&utm_medium=referral&utm_campaign=hp-footer&fg=1
+        - link "Advertising" [ref=e63] [cursor=pointer]:
+          - /url: https://www.google.com/intl/en_fr/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1
+        - link "Business" [ref=e64] [cursor=pointer]:
+          - /url: https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1
+        - link "How Search works" [ref=e65] [cursor=pointer]:
+          - /url: https://google.com/search/howsearchworks/?fg=1
+      - generic [ref=e66]:
+        - link "Report inappropriate content" [ref=e67] [cursor=pointer]:
+          - /url: https://support.google.com/legal/answer/3110420?hl=en-FR&fg=1
+        - link "Consumer information" [ref=e68] [cursor=pointer]:
+          - /url: https://support.google.com/websearch?p=fr_consumer_info&hl=en-FR&fg=1
+        - link "Privacy" [ref=e69] [cursor=pointer]:
+          - /url: https://policies.google.com/privacy?hl=en-FR&fg=1
+        - link "Terms" [ref=e70] [cursor=pointer]:
+          - /url: https://policies.google.com/terms?hl=en-FR&fg=1
+        - button "Settings" [ref=e74] [cursor=pointer]:
+          - generic [ref=e75]: Settings
