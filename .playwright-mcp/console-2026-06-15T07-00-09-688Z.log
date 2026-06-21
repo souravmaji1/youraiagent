@@ -1,0 +1,5 @@
+[ -108197ms] [WARNING] Deprecation warning: allowHTML will default to false in a future release. To render HTML in Choices, you will need to set it to true. Setting allowHTML will suppress this message. @ https://storage.googleapis.com/xe1r-a1ss-4juk.n7c.xano.io/vault/nYKIkvly/LcFrtyg282ALCPiInLTq23IF9V0/UUXMBA../choices.min.js:1
+[      10ms] TypeError: Cannot read properties of null (reading 'textContent')
+    at updateFavorites (https://app.microns.io/buyer/listings:712:36)
+    at https://app.microns.io/buyer/listings:734:1
+[      10ms] The rangeslider is missing a Track element or a Handle element.

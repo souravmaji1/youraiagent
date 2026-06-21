@@ -16,6 +16,7 @@
     "@langchain/openrouter": "^0.3.0",
     "@playwright/mcp": "^0.0.76",
     "@supabase/mcp-server-supabase": "^0.8.2",
+    "deepagents": "^1.10.2",
     "dotenv": "^17.4.2",
     "langchain": "^1.4.5",
     "mcp-chrome": "^1.0.0",
